@@ -1,0 +1,19 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verifying my git set-up : )",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorantlapallavi10-hub/autosuggest.git"
+  },
+  "author": "Pallavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorantlapallavi10-hub/autosuggest/issues"
+  },
+  "homepage": "https://github.com/gorantlapallavi10-hub/autosuggest#readme"
+}

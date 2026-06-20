@@ -16,6 +16,6 @@ function randomuser(){
         document.getElementById("user-gender").innerText=user.gender;
     })
     .catch(function(err){
-        console.log(Error +err)
+        console.log("Error:" +err);
     })
 }
